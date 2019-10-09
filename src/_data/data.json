@@ -1,0 +1,29 @@
+{
+    "copy"           : "WebsiteMarket", 
+    "email"          : "claudiu.mance@yahoo.com",
+    "phone"          : "0721560781",
+    "address"        : "Ghtari 235/b - ghetari517317 Garda De Sus, Alba.",
+    "design"         : "Paradigm by Html5 UP",
+
+    "app_title"      : "Cabana Suvenirurilor",
+    "app_subtitle"   : "O locatie excelenta de cazare in Garda De Sus, Alba.",
+
+    "seo_title"      : "Cabana Suvenirurilor - Cazare Apuseni | WebsiteMarket",
+    "seo_desc"       : "O locatie excelenta de cazare in Garda De Sus, Alba.",
+
+    "service"        : "https://websitemarket.ro", 
+
+    "product"        : "https://websitemarket.ro/creare-site/pensiuni/cabana-suvenirurilor-apuseni/", 
+    "github"         : "https://github.com/creare-site/demo-cabana-suvenirurilor-apuseni/",
+    "github_group"   : "https://github.com/creare-site/",
+
+    "blog"           : "https://blog.websitemarket.ro/",
+    "facebook"       : "https://www.facebook.com/cabanasuvenirurilor/",
+    "youtube"        : "https://www.youtube.com/",
+    "twitter"        : "https://twitter.com/websitemarketro/",
+    "instagram"      : "https://websitemarket.ro",
+    "support"        : "https://websitemarket.ro",
+    "discord"        : "https://discord.gg/MFRQmAk",
+
+    "LAST_KEY" : "NA"
+}
